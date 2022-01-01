@@ -32,7 +32,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 default_start_msg = """
 **Hi, I'm Media Search bot**
 
-Here you can search files in inline mode. Just press following buttons and start searching.
+Here you can search files in inline mode. Just press following buttons and start searching.This is the inline mode of AnyStudent Bot.
 """
 
 START_MSG = environ.get('START_MSG', default_start_msg)
