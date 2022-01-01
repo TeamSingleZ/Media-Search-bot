@@ -23,7 +23,7 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 
 # Messages
 START_MSG = """
-**Hi, I'm AnyStuden Bot**
+**Hi, I'm AnyStudent Bot**
 
 This is the inline mode of AnyStudent Bot. Just press follwing buttons and start searching.
 """
