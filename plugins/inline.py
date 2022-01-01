@@ -20,7 +20,7 @@ async def answer(bot, query):
         await query.answer(
             results=[],
             cache_time=0,
-            switch_pm_text='You have to subscribe channel',
+            switch_pm_text='☆ You Have Subscribe To AnyStudent',
             switch_pm_parameter="subscribe",
         )
         return
